@@ -58,5 +58,5 @@ Student ID: 905005695
 Year: 2026
 
 ## Copyright
-© [Your First Name] [Your Last Name], [Program], [Semester], [ID], [Year]
+© [Shadrach Saidu Saccoh Sesay], [BSEM], [Semester 4], [ID: 905005695], [2005]
 
