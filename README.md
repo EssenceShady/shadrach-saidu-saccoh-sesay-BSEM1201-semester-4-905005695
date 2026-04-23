@@ -51,10 +51,13 @@ The work is assessed based on:
 - Screenshot Documentation
 
 ## Screenshot Documentation
+HTML structure
 <img width="2558" height="1350" alt="image" src="https://github.com/user-attachments/assets/b523045d-1427-4a86-a4d2-4de2eecb9b89" />
 
+Landing Page
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/e45d64e0-4f94-43ff-868c-df9244a42d6c" />
 
+Git Hub Repo Image
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/fd9efafe-81f8-496f-91f6-f5dbc771a0ca" />
 
 
